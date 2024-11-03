@@ -140,7 +140,12 @@ ul {
   clear: both;
 }
 
-
+.content img {
+  width: 100%;
+}
+.container {
+  margin-top: 12px;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
